@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="git_repo_list">Repositórios</string>
+    <string name="repository_not_found">Nenhum repositório encontrado</string>
+
+    <!--Details-->
+    <string name="git_repo_detail_username">Usuário: %s</string>
+    <string name="git_repo_detail_repository">Repositório: %s</string>
+</resources>

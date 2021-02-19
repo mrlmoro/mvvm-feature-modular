@@ -1,0 +1,4 @@
+include ':git-repo'
+include ':core'
+include ':app'
+rootProject.name = "MVVMFeatureModular"

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMFeatureModular</string>
+
+    <string name="unexpected_error">Ocorreu um erro inesperado</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="search">Pesquisar</string>
+</resources>

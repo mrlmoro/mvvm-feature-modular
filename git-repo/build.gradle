@@ -1,0 +1,12 @@
+plugins {
+    id 'com.android.library'
+    id 'kotlin-android'
+}
+
+dependencies {
+    implementation project(":core")
+
+    testImplementation "io.mockk:mockk:1.10.5"
+    testImplementation "junit:junit:4.13.1"
+    testImplementation "androidx.arch.core:core-testing:2.1.0"
+}
